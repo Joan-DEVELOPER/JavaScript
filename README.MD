@@ -3,7 +3,7 @@
 A closure is a function that remembers the variables from the scope where it was created, even after that scope has finished executing.
 
 ### 2. Example code
-`function closureCounter() {
+` function closureCounter() {
   let counter = 0;
 
   return function() {
