@@ -10,4 +10,4 @@ Thanks to Window, we can move the user between screens, retrieve browser data an
 In order to download and use this example, follow this steps.
 1. Open Git/GitHub Desktop and clone this branch
 2. Once downloaded, run `code .` on a console.
-3. Open **test_html.html** on your browser, by tapping twice on the file. 
+3. Open **test_html.html** on your browser, by tapping twice on the file or using Live Server. 
